@@ -1,0 +1,117 @@
+Version OP
+
+Index: 0 lasted PT1.213895400S seconds.
+Index: 1 lasted PT0.707949500S seconds.
+Index: 2 lasted PT1.169769500S seconds.
+Index: 3 lasted PT0.919423500S seconds.
+Index: 4 lasted PT0.808484200S seconds.
+Index: 5 lasted PT0.680434900S seconds.
+Index: 6 lasted PT1.079554100S seconds.
+Index: 7 lasted PT0.866320S seconds.
+Index: 8 lasted PT1.142858800S seconds.
+Index: 9 lasted PT1.065228600S seconds.
+Index: 10 lasted PT0.987726600S seconds.
+hash {6: [], 2: [], 7: [], 9: [], 4: [], 8: [19540], 1: [], 10: [], 3: [], 5: [20295], 0: []}
+
+Version HashSet
+
+Index: 0 lasted PT1.008624900S seconds.
+Index: 1 lasted PT0.625128700S seconds.
+Index: 2 lasted PT1.005765600S seconds.
+Index: 3 lasted PT0.796054600S seconds.
+Index: 4 lasted PT0.715294100S seconds.
+Index: 5 lasted PT0.626678600S seconds.
+Index: 6 lasted PT0.890484S seconds.
+Index: 7 lasted PT0.772449700S seconds.
+Index: 8 lasted PT0.948609800S seconds.
+Index: 9 lasted PT0.868030900S seconds.
+Index: 10 lasted PT0.823509200S seconds.
+hash {9: [], 1: [], 8: [19540], 10: [], 4: [], 0: [], 6: [], 7: [], 3: [], 5: [20295], 2: []}
+
+Version Cached
+
+Index: 0 lasted PT0.880647S seconds.
+Index: 1 lasted PT0.467137200S seconds.
+Index: 2 lasted PT0.898771200S seconds.
+Index: 3 lasted PT0.584240200S seconds.
+Index: 4 lasted PT0.555557700S seconds.
+Index: 5 lasted PT0.484738400S seconds.
+Index: 6 lasted PT0.803329400S seconds.
+Index: 7 lasted PT0.595715600S seconds.
+Index: 8 lasted PT0.845303800S seconds.
+Index: 9 lasted PT0.797794900S seconds.
+Index: 10 lasted PT0.756087S seconds.
+hash {7: [], 5: [20295], 0: [], 4: [], 3: [], 8: [19540], 9: [], 1: [], 10: [], 6: [], 2: []}
+
+Version MoreCached
+
+Index: 0 lasted PT0.634797200S seconds.
+Index: 1 lasted PT0.433082S seconds.
+Index: 2 lasted PT0.656360200S seconds.
+Index: 3 lasted PT0.490461S seconds.
+Index: 4 lasted PT0.482383700S seconds.
+Index: 5 lasted PT0.448248500S seconds.
+Index: 6 lasted PT0.619104100S seconds.
+Index: 7 lasted PT0.507272100S seconds.
+Index: 8 lasted PT0.639717S seconds.
+Index: 9 lasted PT0.621367300S seconds.
+Index: 10 lasted PT0.596148100S seconds.
+hash {1: [], 4: [], 9: [], 5: [20295], 0: [], 10: [], 8: [19540], 7: [], 3: [], 6: [], 2: []}
+
+Version RemoveSorting
+
+Index: 0 lasted PT0.503599200S seconds.
+Index: 1 lasted PT0.375227500S seconds.
+Index: 2 lasted PT0.512103200S seconds.
+Index: 3 lasted PT0.416035600S seconds.
+Index: 4 lasted PT0.415730400S seconds.
+Index: 5 lasted PT0.392238700S seconds.
+Index: 6 lasted PT0.496953900S seconds.
+Index: 7 lasted PT0.427815200S seconds.
+Index: 8 lasted PT0.502730700S seconds.
+Index: 9 lasted PT0.493505900S seconds.
+Index: 10 lasted PT0.479915S seconds.
+hash {5: [20295], 0: [], 8: [19540], 9: [], 6: [], 4: [], 2: [], 3: [], 7: [], 10: [], 1: []}
+
+Version RemoveIntermediateVectors
+
+Index: 0 lasted PT0.493373500S seconds.
+Index: 1 lasted PT0.364431400S seconds.
+Index: 2 lasted PT0.501970400S seconds.
+Index: 3 lasted PT0.402607500S seconds.
+Index: 4 lasted PT0.397566S seconds.
+Index: 5 lasted PT0.378664S seconds.
+Index: 6 lasted PT0.486014400S seconds.
+Index: 7 lasted PT0.414975100S seconds.
+Index: 8 lasted PT0.491301S seconds.
+Index: 9 lasted PT0.481027700S seconds.
+Index: 10 lasted PT0.469798500S seconds.
+hash {0: [], 2: [], 4: [], 9: [], 1: [], 5: [20295], 10: [], 7: [], 3: [], 6: [], 8: [19540]}
+
+Version PrecomputedStopwordFree
+
+Index: 0 lasted PT0.275000200S seconds.
+Index: 1 lasted PT0.143408700S seconds.
+Index: 2 lasted PT0.280142600S seconds.
+Index: 3 lasted PT0.198085800S seconds.
+Index: 4 lasted PT0.184545400S seconds.
+Index: 5 lasted PT0.152787200S seconds.
+Index: 6 lasted PT0.295691800S seconds.
+Index: 7 lasted PT0.207630700S seconds.
+Index: 8 lasted PT0.313039500S seconds.
+Index: 9 lasted PT0.297525700S seconds.
+Index: 10 lasted PT0.271158100S seconds.
+hash {3: [], 7: [], 0: [], 4: [], 5: [20295], 6: [], 2: [], 8: [19540], 9: [], 10: [], 1: []}
+
+Index: 0 lasted PT0.274020700S seconds.
+Index: 1 lasted PT0.143449400S seconds.
+Index: 2 lasted PT0.280097700S seconds.
+Index: 3 lasted PT0.195626200S seconds.
+Index: 4 lasted PT0.185337300S seconds.
+Index: 5 lasted PT0.153987S seconds.
+Index: 6 lasted PT0.296690400S seconds.
+Index: 7 lasted PT0.212106300S seconds.
+Index: 8 lasted PT0.307615400S seconds.
+Index: 9 lasted PT0.292086200S seconds.
+Index: 10 lasted PT0.277000900S seconds.
+hash {0: [], 2: [], 9: [], 7: [], 5: [20295], 1: [], 8: [19540], 4: [], 10: [], 6: [], 3: []}
